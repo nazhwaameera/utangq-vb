@@ -1,0 +1,10 @@
+D:\Users\bsi80204\source\repos\UtangQApps\UtangQBO\bin\Debug\netstandard2.0\UtangQBO.deps.json
+D:\Users\bsi80204\source\repos\UtangQApps\UtangQBO\bin\Debug\netstandard2.0\UtangQBO.dll
+D:\Users\bsi80204\source\repos\UtangQApps\UtangQBO\bin\Debug\netstandard2.0\UtangQBO.pdb
+D:\Users\bsi80204\source\repos\UtangQApps\UtangQBO\obj\Debug\netstandard2.0\UtangQBO.vbproj.AssemblyReference.cache
+D:\Users\bsi80204\source\repos\UtangQApps\UtangQBO\obj\Debug\netstandard2.0\UtangQBO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\bsi80204\source\repos\UtangQApps\UtangQBO\obj\Debug\netstandard2.0\UtangQBO.AssemblyInfoInputs.cache
+D:\Users\bsi80204\source\repos\UtangQApps\UtangQBO\obj\Debug\netstandard2.0\UtangQBO.AssemblyInfo.vb
+D:\Users\bsi80204\source\repos\UtangQApps\UtangQBO\obj\Debug\netstandard2.0\UtangQBO.vbproj.CoreCompileInputs.cache
+D:\Users\bsi80204\source\repos\UtangQApps\UtangQBO\obj\Debug\netstandard2.0\UtangQBO.dll
+D:\Users\bsi80204\source\repos\UtangQApps\UtangQBO\obj\Debug\netstandard2.0\UtangQBO.pdb

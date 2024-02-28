@@ -1,0 +1,15 @@
+D:\Users\bsi80204\source\repos\UtangQApps\UtangQDLA\bin\Debug\netstandard2.0\UtangQDAL.deps.json
+D:\Users\bsi80204\source\repos\UtangQApps\UtangQDLA\bin\Debug\netstandard2.0\UtangQDAL.dll
+D:\Users\bsi80204\source\repos\UtangQApps\UtangQDLA\bin\Debug\netstandard2.0\UtangQDAL.pdb
+D:\Users\bsi80204\source\repos\UtangQApps\UtangQDLA\bin\Debug\netstandard2.0\UtangQBO.dll
+D:\Users\bsi80204\source\repos\UtangQApps\UtangQDLA\bin\Debug\netstandard2.0\UtangQInterface.dll
+D:\Users\bsi80204\source\repos\UtangQApps\UtangQDLA\bin\Debug\netstandard2.0\UtangQBO.pdb
+D:\Users\bsi80204\source\repos\UtangQApps\UtangQDLA\bin\Debug\netstandard2.0\UtangQInterface.pdb
+D:\Users\bsi80204\source\repos\UtangQApps\UtangQDLA\obj\Debug\netstandard2.0\UtangQDAL.vbproj.AssemblyReference.cache
+D:\Users\bsi80204\source\repos\UtangQApps\UtangQDLA\obj\Debug\netstandard2.0\UtangQDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\bsi80204\source\repos\UtangQApps\UtangQDLA\obj\Debug\netstandard2.0\UtangQDAL.AssemblyInfoInputs.cache
+D:\Users\bsi80204\source\repos\UtangQApps\UtangQDLA\obj\Debug\netstandard2.0\UtangQDAL.AssemblyInfo.vb
+D:\Users\bsi80204\source\repos\UtangQApps\UtangQDLA\obj\Debug\netstandard2.0\UtangQDAL.vbproj.CoreCompileInputs.cache
+D:\Users\bsi80204\source\repos\UtangQApps\UtangQDLA\obj\Debug\netstandard2.0\UtangQDAL.vbproj.Up2Date
+D:\Users\bsi80204\source\repos\UtangQApps\UtangQDLA\obj\Debug\netstandard2.0\UtangQDAL.dll
+D:\Users\bsi80204\source\repos\UtangQApps\UtangQDLA\obj\Debug\netstandard2.0\UtangQDAL.pdb
